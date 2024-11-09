@@ -1,0 +1,12 @@
+.img{
+    width: 20%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightcyan;
+}
+box{
+    width: 400;
+}
